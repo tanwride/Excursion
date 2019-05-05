@@ -1,0 +1,30 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+body {
+    background: black;
+}
+div {
+    text-align: center;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: white;
+}
+.app {
+    color: aquamarine;
+    font-size: 16px;
+}
+.sub {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+
+}
